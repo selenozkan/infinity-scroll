@@ -1,6 +1,7 @@
 # infinity-scroll
 
-A website with infinite scroll functionality, showing images of Spain from [Unsplash](https://unsplash.com).
+A website with infinite scroll functionality, showing images of Spain which are taken from [Unsplash](https://unsplash.com).
+
 Written using HTML5, CSS3 and JavaScript.
 
 # Live Project
@@ -9,7 +10,7 @@ Written using HTML5, CSS3 and JavaScript.
 <img src ="projectdemo.png" width=750>
 
 
-# Useful links for this project
+## Useful links for this project
 
 The loading icons can be found [here](https://loading.io)
 
