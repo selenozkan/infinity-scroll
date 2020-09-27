@@ -10,7 +10,7 @@ let photosArray = [];
 // Unsplash API
 const count = 30;
 const query = 'Spain'
-const apiKey = <'add API KEY'>;
+const apiKey = 'FEgcRXxwdJb133V2e_gvU-SjzCUnZ24mwpRAhUYVJqA';
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&query=${query}&count=${count}`;
 
 // Check if all images were loaded
