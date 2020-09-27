@@ -8,10 +8,12 @@ Written using HTML5, CSS3 and JavaScript.
 
 <img src ="projectdemo.png" width=750>
 
-### Project Source
-[Click here](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) to access the project source.
 
-## Useful links for this project
+# Useful links for this project
 
 The loading icons can be found [here](https://loading.io)
-Unsplash API was obtained [from here](https://unsplash.com/documentation)
+
+Unsplash API was obtained from [here](https://unsplash.com/documentation)
+
+### Project Source
+[Click here](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) to access the project source.
